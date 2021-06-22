@@ -3,9 +3,7 @@
  
 Inspiration
 Wordpress is used by over one billion of people. Some used it to create blogs, publish Articles, create posts etc. They also exist over 60,000 wordpress plugins serving various needs like security plugins, E-commerce plugins, social Networks plugins, business plugins etc.
-
 We created this Wordpress plugins to help us Analyze and visualize users/clients sentiments for every comments made on each posts, blogs, articles etc published on Wordpress.
-
 
 You have site Visitors, users or Clients visiting and commenting on your wordpress published Posts, Articles, blogs etc. it is time to analyze their Comments using Expert.ai Sentiments and opinion mining API
 
