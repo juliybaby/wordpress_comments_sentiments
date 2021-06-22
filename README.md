@@ -11,15 +11,15 @@ We created this Wordpress plugins to help us Analyze and visualize users/clients
 
 is an interactive WordPress Plugins for analyzing and visualizing Sentimental Analysis on every WordPress Comments on a published Posts to determine:
 
-# 1.) All the Characters, Entities and Keyphrases in a given Wordpress Comments/Text submitted by a Wordpress User on each Published Wordpress Posts.
+ 1.) All the Characters, Entities and Keyphrases in a given Wordpress Comments/Text submitted by a Wordpress User on each Published Wordpress Posts.
 
-# 2.) Wordpress Users Emotions like if the User is Sad or Happy or Satisfied via his Comments on each Published Wordpress Posts.
+ 2.) Wordpress Users Emotions like if the User is Sad or Happy or Satisfied via his Comments on each Published Wordpress Posts.
 
-# 3.) Users Comments intents about certain Wordpress Posts. Eg Checking Users Comments Reaction for Positivity or Negativity or Neutrality on each Published Wordpress Posts
+ 3.) Users Comments intents about certain Wordpress Posts. Eg Checking Users Comments Reaction for Positivity or Negativity or Neutrality on each Published Wordpress Posts
 
-# 4.) Monitors Wordpress Users Statistical Comments Analysis over time to know The Wordpress Posts that is leading in the Wordpress Comments.
+ 4.) Monitors Wordpress Users Statistical Comments Analysis over time to know The Wordpress Posts that is leading in the Wordpress Comments.
 
-#How it Works
+# How it Works
 
 Wordpress Admin Log into the Wordpress Admin section to create and Published a Post. Eg http://your-wordpress-site.com/wordpress_app/wp-admin/
 
